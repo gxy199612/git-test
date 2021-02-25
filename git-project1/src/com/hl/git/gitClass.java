@@ -8,5 +8,6 @@ public class gitClass {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("nihao");
+        System.out.println("gxy git");
     }
 }
